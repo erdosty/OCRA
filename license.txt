@@ -1,4 +1,4 @@
-Copyright (c) 2020, Erdost YILDIZ
+Copyright (c) 2021, M. Giray ERSOZ & Erdost YILDIZ
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
